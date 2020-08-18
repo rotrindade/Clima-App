@@ -5,6 +5,7 @@ Estudo de um App para verificar condições climáticas locais e de outros país
 ## Aplicados ao App
 
 * Fou utilizado Dark Mode(função modo escuro).
+* Arquitetura MVC
 * Imagens em vetor com Dark Mode.
 * UITextField para inserir solicitações do usuário. 
 * Delegate pattern.
